@@ -31,11 +31,9 @@ const ServicesComponent = () => {
                   <span>01</span>
                 </div>
                 <div className="item_content">
-                  <h3 className="fn_title">Huge Collection</h3>
+                  <h3 className="fn_title">Original Stems:</h3>
                   <p className="fn_desc fn_animated_text">
-                    A collection of 5,000 unique NEOHs built to go beyond the
-                    digital space that will unlock numerous benefits for our
-                    community.
+                  Gain access to a rich library of original stems and music samples from our diverse artist roster. Ideal for remixers, producers, and music enthusiasts looking to add a distinct twisty twist to their projects.
                   </p>
                 </div>
               </div>
@@ -46,11 +44,10 @@ const ServicesComponent = () => {
                   <span>02</span>
                 </div>
                 <div className="item_content">
-                  <h3 className="fn_title">High Quality</h3>
+                  <h3 className="fn_title">Artist Blogs:</h3>
                   <p className="fn_desc fn_animated_text">
-                    The NEOH collection includes dozens of rare heads, costumes,
-                    and colorways of the artists palette. They are drawn with
-                    great care.
+                  Deep-dive into the creative process and daily life of our underground artists through regularly updated blogs. It's a rare glimpse into the minds that are shaping the music landscape.
+                 
                   </p>
                 </div>
               </div>
@@ -61,11 +58,9 @@ const ServicesComponent = () => {
                   <span>03</span>
                 </div>
                 <div className="item_content">
-                  <h3 className="fn_title">Top Resource</h3>
+                  <h3 className="fn_title">Exclusive Merch:</h3>
                   <p className="fn_desc fn_animated_text">
-                    Tasty design resources made with care for each pixel.
-                    Tokens, NFTs, metaverse and game resources. Access
-                    additional drops.
+                  Swomp Tow Records offers a range of exclusive merchandise, from t-shirts and vinyl records to limited edition poster prints. Show your support for your favorite artists and wear the Swomp Tow pride.
                   </p>
                 </div>
               </div>
@@ -76,11 +71,9 @@ const ServicesComponent = () => {
                   <span>04</span>
                 </div>
                 <div className="item_content">
-                  <h3 className="fn_title">Big Community</h3>
+                  <h3 className="fn_title">Live Sessions:</h3>
                   <p className="fn_desc fn_animated_text">
-                    Be part of a community of neoh owners and create user
-                    generated items. Rent, advertise, lounch stores, create
-                    items.
+                  Experience intimate live sessions with your favorite artists. Watch them perform and interact in real-time, creating a unique and immersive musical experience.
                   </p>
                 </div>
               </div>

@@ -10,37 +10,36 @@ const AboutComponent = () => {
           </div>
           <div className="content_item">
             <div className="neoh_fn_title" data-align="left">
-              <h3 className="fn_title">Swomp Tow Records: </h3>
-              <h4 className="fn_title">A Herbal Blend of Music and Culture
- </h4>
-              
+              <h3 className="fn_title">The Rise of Neoh</h3>
               <div className="line">
                 <span />
               </div>
             </div>
             <div className="desc">
               <p>
-              Swomp Tow Records is a creative space that brings together the best of two worlds: music and culture. 
-              Based in the deep swamps of the South, Swomp Tow Records produces a unique blend of music that reflects the rich cultural heritage of the region. 
-             
+                As the first hero of the Neoh Universe, collection has over
+                9,999 unique skins drawn from the different missions and
+                challenges he faced throughout his life.
               </p>
               <p>
-             Now you shall explore the story behind Swomp Tow Records and the artists that call it home.
+                The artwork has been hand-drawned by Robert Green in the
+                traditional anime style and composited by Layla Efiyo.
               </p>
             </div>
             <div className="buttons">
               <a
-                href="/"
-               
+                href="https://opensea.io/"
+                target="_blank"
+                rel="noreferrer"
                 className="neoh_fn_button"
               >
                 <span className="icon">
                   <img src="svg/opensea.svg" alt="" className="fn__svg" />
                 </span>
-                <span className="text">Youtube</span>
+                <span className="text">OpenSea</span>
               </a>
               <a
-                href="/"
+                href="https://discord.com/"
                 target="_blank"
                 rel="noreferrer"
                 className="neoh_fn_button"
@@ -48,7 +47,7 @@ const AboutComponent = () => {
                 <span className="icon">
                   <img src="svg/discord.svg" alt="" className="fn__svg" />
                 </span>
-                <span className="text">Soundcloud</span>
+                <span className="text">Discord</span>
               </a>
             </div>
           </div>
@@ -61,16 +60,16 @@ const AboutComponent = () => {
           </div>
           <div className="content_item">
             <div className="neoh_fn_title" data-align="left">
-              <h3 className="fn_title">What is Swomp Tow Records?</h3>
+              <h3 className="fn_title">High Quality NFT Collection</h3>
               <div className="line">
                 <span />
               </div>
             </div>
             <div className="desc">
               <p>
-              Swomp Tow Records is an independent record label founded in 2018 by BlackSheep Bill and Midlife Chris. The label was born out of a desire to create music that reflects the unique culture and heritage of the South. Swomp Tow Records produces music that fuses different genres, including hip-hop, blues, rock, and folk.
-
-
+                Simply holding a Neoh will give you access to seasonal airdrops,
+                merchandise, physical and digital artworks, collectibles and
+                more.
               </p>
               <p>
                 We understand the importance of the cross-over between these

@@ -73,7 +73,7 @@ const ServicesComponent = () => {
                 <div className="item_content">
                   <h3 className="fn_title">Live Sessions:</h3>
                   <p className="fn_desc fn_animated_text">
-                  Experience intimate live sessions with your favorite artists. Watch them perform and interact in real-time, creating a unique and immersive musical experience!
+                  Experience intimate live sessions with your favorite artists. Watch them perform and interact in real-time, creating a unique and immersive musical experience.
                   </p>
                 </div>
               </div>

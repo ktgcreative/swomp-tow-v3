@@ -31,11 +31,9 @@ const ServicesComponent = () => {
                   <span>01</span>
                 </div>
                 <div className="item_content">
-                  <h3 className="fn_title">Huge Collection</h3>
+                  <h3 className="fn_title">Original Stems:</h3>
                   <p className="fn_desc fn_animated_text">
-                    A collection of 5,000 unique NEOHs built to go beyond the
-                    digital space that will unlock numerous benefits for our
-                    community.
+                  Gain access to a rich library of original stems and music samples from our diverse artist roster. Ideal for remixers, producers, and music enthusiasts looking to add a distinct twisty twist to their projects.
                   </p>
                 </div>
               </div>

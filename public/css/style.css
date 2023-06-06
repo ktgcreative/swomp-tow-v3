@@ -382,7 +382,7 @@ a.full_link{
     max-width: 700px;
     margin: 0 auto;
     padding: 0;
-    font-size: 55px;
+    font-size: 45px;
     text-transform: uppercase;
     letter-spacing: 35px; /* after changing this value, don't forget to change left value */
     line-height: 1;
@@ -4468,7 +4468,7 @@ a.full_link{
 	}
 	/*home*/
 	.neoh_fn_hero .fn_title{
-		font-size: 90px;
+		font-size: 75px;
 	}
 	.neoh_fn_about_item .img_item{
 		width: 40%;

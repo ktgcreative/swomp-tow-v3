@@ -10,16 +10,17 @@ const AboutComponent = () => {
           </div>
           <div className="content_item">
             <div className="neoh_fn_title" data-align="left">
-              <h3 className="fn_title">The Rise of Neoh</h3>
+              <h3 className="fn_title">Swomp Tow Records: </h3>
+              <h4 className="fn_title">A Herbal Blend of Music and Culture </h4>
               <div className="line">
                 <span />
               </div>
             </div>
             <div className="desc">
               <p>
-                As the first hero of the Neoh Universe, collection has over
-                9,999 unique skins drawn from the different missions and
-                challenges he faced throughout his life.
+              Swomp Tow Records is a creative space that brings together the best of two worlds: music and culture. 
+              Based in the deep swamps of the South, Swomp Tow Records produces a unique blend of music that reflects the rich cultural heritage of the region. 
+             
               </p>
               <p>
                 The artwork has been hand-drawned by Robert Green in the

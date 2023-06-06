@@ -14,22 +14,7 @@ const Drops = () => {
       img: "img/drops/2.jpg",
       title: "Neoh #4587",
     },
-    {
-      img: "img/drops/3.jpg",
-      title: "Neoh #4586",
-    },
-    {
-      img: "img/drops/4.jpg",
-      title: "Neoh #4585",
-    },
-    {
-      img: "img/drops/5.jpg",
-      title: "Neoh #4584",
-    },
-    {
-      img: "img/drops/6.jpg",
-      title: "Neoh #4583",
-    },
+   
   ];
 
   const onClick = (value) => {
